@@ -1,0 +1,50 @@
+{
+  "id": 3013444040806,
+  "title": "Best safety device",
+  "toggles": [
+    {
+      "id": 4876656641559,
+      "title": "Section 1",
+      "content": "ये simple सा दिखने वाला device, school जाने वाले बच्चों की जान बचाता है. दरअसल, America में school shooting एक बहुत बड़ी problem है. और इसी से बच्चों को बचाने के लिए इस genius device को बनाया गया है, जो पल भर में classroom को एक safe shelter में बदल देता है. इस barricade को बस दरवाज़े और नीचे लगी floor plate में फंसाया जाता है, जिसके बाद दरवाज़े को बाहर से खोलना completely impossible हो जाता है. इतना ही नहीं, इसका safety shade बाहर से classroom के अंदर का view भी पूरी तरह block कर देता है.",
+      "isOpen": true
+    },
+    {
+      "id": 4404930064166,
+      "title": "Section 2",
+      "content": "ये safety device स्कूल में बच्चों की जान बचाता है. दरअसल, America में school shooting एक बहुत बड़ी problem है. इसीलिए वहां इस genius device को बनाया गया है, जो classroom को एक shelter में बदल देता है. इस barricade को दरवाज़े और ज़मीन पर लगी plate के बीच फंसा दिया जाता है, जिसके बाद दरवाज़े को खोलना literally impossible हो जाता है. और इसके safety shade से बाहर मौजूद खतरे को अंदर का कोई view नहीं मिलता.",
+      "isOpen": true
+    },
+    {
+      "id": 1198601974927,
+      "title": "Section 3",
+      "content": "",
+      "isOpen": true
+    },
+    {
+      "id": 9037737121448,
+      "title": "Section 4",
+      "content": "",
+      "isOpen": true
+    },
+    {
+      "id": 5925715068140,
+      "title": "Section 5",
+      "content": "",
+      "isOpen": true
+    },
+    {
+      "id": 2820224313031,
+      "title": "Section 6",
+      "content": "",
+      "isOpen": true
+    },
+    {
+      "id": 8929312856693,
+      "title": "Section 7",
+      "content": "",
+      "isOpen": true
+    }
+  ],
+  "created": "2025-07-29T16:02:49.125Z",
+  "updated": "2025-07-29T16:02:49.125Z"
+}
