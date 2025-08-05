@@ -1,0 +1,56 @@
+{
+  "id": 1754419692614,
+  "title": "Rescue Plane",
+  "toggles": [
+    {
+      "id": 1754419692624,
+      "title": "English Script",
+      "content": "This is a unique rescue plane, designed to assist aircraft in distress in mid-flight. It positions itself under the affected aircraft, adjusts its speed to align perfectly, and allows the latter to land gently on a specially designed platform. Once in place, six mechanical arms stabilize the aircraft and accompany it safely for a successful landing. This system is designed to operate with precision, even in difficult conditions such as wind or turbulence. If the aircraft in distress is on fire and the passengers need to be evacuated, a discreet exit located inside the rescue plane allows them to descend quickly. The damaged aircraft can then be ejected to avoid any danger.",
+      "isOpen": true
+    },
+    {
+      "id": 1754419692634,
+      "title": "Translation 1",
+      "content": "ये है आसमान में उड़ता एक चलता-फिरता एयरपोर्ट, जो किसी भी मुसीबत में फंसे प्लेन के लिए एक फरिश्ते की तरह काम करता है. सोचिए, अगर किसी प्लेन का इंजन बीच हवा में फेल हो जाए... तो ये अनोखा रेस्क्यू प्लेन तुरंत एक्शन में आता है. सबसे पहले, ये खराब हुए प्लेन के ठीक नीचे आकर अपनी पोज़िशन ले लेता है. फिर ये अपनी स्पीड को उस प्लेन के साथ एकदम पर्फेक्ट्ली मैच करता है, ताकि ऊपर वाला प्लेन इसके खास डिज़ाइन किए गए प्लेटफॉर्म पर धीरे से लैंड कर सके. एक बार प्लेन अपनी जगह पर आ जाए, तो 6 मज़बूत मैकेनिकल हाथ उसे कसकर पकड़ लेते हैं और उसे पूरी तरह से stabilize कर देते हैं. इसके बाद ये रेस्क्यू प्लेन उसे एक कामयाब और सेफ लैंडिंग तक अपने साथ लेकर जाता है. सबसे बड़ी बात ये है कि ये सिस्टम तेज़ हवा या टर्बुलेंस जैसी मुश्किल कंडीशंस में भी एकदम précision के साथ काम करने के लिए डिज़ाइन किया गया है. और अगर खराब हुए प्लेन में आग लग जाए और passengers को तुरंत बाहर निकालना पड़े, तो इस रेस्क्यू प्लेन के अंदर बने एक खुफिया रास्ते से लोग फटाफट नीचे उतर सकते हैं. और फिर किसी भी बड़े खतरे से बचने के लिए, उस डैमेज हुए प्लेन को हवा में ही eject कर दिया जाता है.",
+      "isOpen": true
+    },
+    {
+      "id": 1754419692644,
+      "title": "Translation 1.1",
+      "content": "",
+      "isOpen": true
+    },
+    {
+      "id": 1754419692654,
+      "title": "Translation 2",
+      "content": "दोस्तों, कल्पना कीजिए कि एक हवाई जहाज़ बीच हवा में हज़ारों फीट की ऊँचाई पर खराब हो जाए! ऐसे में क्या होगा? अब तक तो हमारे पास कोई जवाब नहीं था, लेकिन अब पेश है ये अनोखा रेस्क्यू प्लेन, जिसे खास तौर पर हवा में मुश्किल में फँसे दूसरे विमानों को बचाने के लिए ही डिज़ाइन किया गया है. ये किसी फ़िल्मी सीन जैसा लगता है! जैसे ही कोई विमान खतरे में पड़ता है, ये रेस्क्यू प्लेन एक्शन में आ जाता है. सबसे पहले, ये खुद को पीड़ित विमान के ठीक नीचे ले आता है. फिर, ये अपनी रफ़्तार को एकदम सटीक तरीके से उस विमान के साथ मैच करता है, और उस जहाज़ को अपने ऊपर बने एक खास प्लेटफॉर्म पर बड़े आराम से लैंड करने देता है. एक बार जब विमान अपनी जगह पर सेट हो जाता है, तो छह मज़बूत मैकेनिकल हाथ उसे चारों तरफ से जकड़कर स्थिर कर देते हैं और पूरी हिफाज़त के साथ उसे सुरक्षित लैंडिंग तक ले जाते हैं. और सबसे हैरान करने वाली बात ये है कि इस सिस्टम को तेज़ हवा या टर्बुलेंस जैसे मुश्किल हालातों में भी पूरी सटीकता के साथ काम करने के लिए बनाया गया है. लेकिन सोचिए, अगर मुसीबत में फँसे विमान में आग लग जाए और यात्रियों को तुरंत बाहर निकालना पड़े? तो उसके लिए भी इसमें एक कमाल का इंतज़ाम है. इस रेस्क्यू प्लेन के अंदर एक गुप्त रास्ता बनाया गया है, जिससे यात्री तेज़ी से और सुरक्षित तरीके से नीचे उतर सकते हैं. और जैसे ही सभी यात्री सुरक्षित बाहर निकल जाते हैं, उस खराब हो चुके विमान को तुरंत दूर फेंक दिया जाता है, ताकि किसी भी बड़े खतरे को टाला जा सके.",
+      "isOpen": true
+    },
+    {
+      "id": 1754419692664,
+      "title": "Translation 2.2",
+      "content": "Ever wonder what would happen if a plane had a major failure mid-flight? Well, what if another plane could just swoop in and save it? Check this out! This is a revolutionary rescue aircraft, and it’s designed to do the impossible: catch another plane in mid-air! Here’s how it works. When an aircraft is in trouble, this beast of a machine gets into position right underneath it. It perfectly matches its speed, creating a stable platform high in the sky. Then, the plane in distress can literally land on top of it. Once it’s docked, six massive mechanical arms deploy, locking the damaged plane securely in place. They act like giant shock absorbers, guaranteeing a smooth ride all the way down. The system is so precise it can operate even in high winds and heavy turbulence! But what if there’s a fire and the passengers need to get out ASAP? No problem. A hidden escape slide opens up, allowing everyone to evacuate quickly and safely into the rescue aircraft below. And the best part? Once everyone is safe, the damaged, empty plane can be jettisoned and sent crashing away, avoiding any danger to the people on the ground. Is this the future of air rescue? Let me know what you think in the comments",
+      "isOpen": true
+    },
+    {
+      "id": 1754419692674,
+      "title": "for Eng Channel",
+      "content": "What if your plane started failing... mid-flight?! Forget parachutes, imagine THIS showing up below you. This is a wild rescue plane concept designed to catch another aircraft... in the sky! Here’s the insane part: It flies directly underneath the plane in trouble, matches its speed perfectly, and lets the other plane land GENTLY on a platform on its back. Once it's settled, six giant mechanical arms grab onto the plane, locking it in place for a super-stable ride down. This thing is so precise, it can work even in crazy wind or turbulence! But wait, what if the plane it just saved is on FIRE and passengers need to get out ASAP?! No problem. There’s a secret exit inside the rescue plane that lets everyone climb down to safety. And the burning, damaged aircraft? It just gets EJECTED. Pushed off to crash safely away from everyone. How insane is that?",
+      "isOpen": true
+    },
+    {
+      "id": 1754419692684,
+      "title": "Eng to Hi",
+      "content": "",
+      "isOpen": true
+    },
+    {
+      "id": 1754419692694,
+      "title": "Outline",
+      "content": "**Mid-Air Rescue Plane Procedure** *   **Docking & Landing:** Positions under a distressed aircraft for a platform landing.\n*   **Stabilization:** Six mechanical arms secure the aircraft for a safe descent.\n*   **All-Weather Operation:** Functions with precision in wind and turbulence.\n*   **Passenger Evacuation:** An internal exit allows passengers to safely deplane.\n*   **Aircraft Disposal:** The damaged aircraft can be ejected to eliminate danger. *** **The Script in One Sentence** A specialized rescue plane assists distressed aircraft by flying underneath to catch them on a platform, using six mechanical arms for a stabilized landing that works even in difficult weather, and includes an internal exit for passenger evacuation before the damaged plane is ejected.",
+      "isOpen": true
+    }
+  ],
+  "created": "2025-08-05T18:48:12.604Z",
+  "updated": "2025-08-05T18:48:12.604Z"
+}
